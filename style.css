@@ -1,0 +1,32 @@
+body {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+}
+
+h1 {
+	color: blueviolet;
+	font-size: 64px;
+	text-decoration: overline;
+	text-shadow: 0 0 20px rgb(0 0 0 / 20%);
+}
+
+input {
+	height: 56px;
+	border-radius: 999px;
+	border: 2px solid blueviolet;
+	padding: 0 16px;
+	width: 256px;
+	font-family: inherit;
+  margin-bottom: 32px;
+}
+
+button {
+	padding: 0 16px;
+	height: 40px;
+	border-radius: 999px;
+	border: none;
+	background: blueviolet;
+  color: white;
+  font-family: inherit;
+  cursor: pointer;
+}
